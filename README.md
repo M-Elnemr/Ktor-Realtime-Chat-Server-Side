@@ -1,6 +1,6 @@
 # Ktor-Realtime-Chat-Server-Side
 
-Server Side App For Realtime chat room
+Server Side App For Realtime chat room (WebSockets - MongoDb)
 - clone and open the app
 - run the server
 - use https://www.piesocket.com/websocket-tester to test the service 
